@@ -1,10 +1,24 @@
 p{
     color:rgb(80, 80, 80);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: medium;
+    margin:auto;
+    max-width: 800px;
 }
 h1{
-    font-size: x-large;
+    font-size: xx-large; text-align: left;
+    margin:auto;
+    max-width: 800px;
 }
 body{
     background-color:blanchedalmond;
+    margin:auto;
+    max-width: 800px;
+}
+div{
+    margin:auto;
+    max-width: 800px;
+    border: 30px outset rgb(206, 162, 42);
+    background-color: lightblue;
 }
